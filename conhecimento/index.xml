@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Notícias da comunidade ENE</title>
+    <link>https://ene.github.io/conhecimento/index.xml</link>
+    <description>Tecnologias livres aplicáveis a comunicação para pessoas com Esclerose Lateral Amiotrófica ou Doença do Neurônio Motor</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-BR</language>
+    <lastBuildDate>Sat, 11 Feb 2017 23:20:00 -0300</lastBuildDate>
+    <atom:link href="/conhecimento/index.xml" rel="self" type="application/rss+xml" />
+    
+  </channel>
+</rss>
+
