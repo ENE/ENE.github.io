@@ -2,65 +2,65 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://ene.github.io/conhecimento/ene/</loc>
+    <loc>http://ene.origem.net.br/conhecimento/ene/</loc>
     <lastmod>2017-02-11T23:20:00-03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ene.github.io/about/</loc>
+    <loc>http://ene.origem.net.br/about/</loc>
     <lastmod>2017-02-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ene.github.io/blog/apresenta%C3%A7%C3%A3o/</loc>
+    <loc>http://ene.origem.net.br/blog/start/</loc>
     <lastmod>2017-02-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ene.github.io/blog/</loc>
-    <lastmod>2017-02-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ene.github.io/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ene.github.io/categories/comunicados/</loc>
+    <loc>http://ene.origem.net.br/blog/</loc>
     <lastmod>2017-02-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ene.github.io/conhecimento/</loc>
+    <loc>http://ene.origem.net.br/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://ene.origem.net.br/categories/comunicados/</loc>
+    <lastmod>2017-02-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://ene.origem.net.br/conhecimento/</loc>
     <lastmod>2017-02-11T23:20:00-03:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ene.github.io/conhecimento/home/</loc>
+    <loc>http://ene.origem.net.br/conhecimento/home/</loc>
   </url>
   
   <url>
-    <loc>https://ene.github.io/tags/datas-importantes/</loc>
+    <loc>http://ene.origem.net.br/tags/datas-importantes/</loc>
     <lastmod>2017-02-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ene.github.io/</loc>
+    <loc>http://ene.origem.net.br/</loc>
     <lastmod>2017-02-11T23:20:00-03:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ene.github.io/home/</loc>
+    <loc>http://ene.origem.net.br/home/</loc>
   </url>
   
   <url>
-    <loc>https://ene.github.io/tags/</loc>
+    <loc>http://ene.origem.net.br/tags/</loc>
     <priority>0</priority>
   </url>
   
