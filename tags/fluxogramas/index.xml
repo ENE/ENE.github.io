@@ -2,12 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Notícias da comunidade ENE</title>
-    <link>http://ene.origem.net.br/conhecimento/index.xml</link>
+    <link>http://ene.origem.net.br/tags/fluxogramas/index.xml</link>
     <description>Tecnologias livres aplicáveis a comunicação para pessoas com Esclerose Lateral Amiotrófica ou Doença do Neurônio Motor</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 29 May 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/conhecimento/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/fluxogramas/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>
